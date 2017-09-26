@@ -1,0 +1,30 @@
+body, html
+{
+	background-color:green;
+	height: 100%;
+}
+
+
+
+.header
+{
+	margin-top:auto;
+	background-color:darkgrey;
+	height:25%;
+	margin-right:15%;
+	margin-left:15%;
+	border-style: groove;
+}
+
+
+.main
+{
+	
+	margin-right: 15%;
+	margin-left: 15%;
+	height:inherit;
+	border-style: groove;
+	background-color:lightgrey;
+
+}
+
