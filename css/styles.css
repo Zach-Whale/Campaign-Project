@@ -21,8 +21,22 @@ body, html
 	color:white;
 	background-color:black;
 	border-style:groove;
-	width:15%;
-	height:30%;
+	width:25%;
+	height:40%;
+}
+
+.profile
+{
+	position:relative;
+
+	width:10%;
+	height:50%;
+}
+
+.profile .profile-pic
+{
+	max-width:100px;
+	filter:none;
 }
 
 .main
